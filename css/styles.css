@@ -1,0 +1,169 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  font-size: 90px;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625 rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5 rem;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+  border: dotted 6px #a9b2b2;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.normal {
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #dff6f0;
+  position: relative;
+  padding-top: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right: 300px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.intro {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.contact-message {
+  width: 30%;
+  margin: 40px auto 60px;
+}
+
+.middle-container h2 {
+  font-size: 2.2rem;
+}
+
+.profile-image {
+  width: 15%;
+}
+
+.skill-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-image2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skills h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.skill-row p {
+
+}
+
+.btn {
+  border: 1px solid #66BFBF;
+  padding: 8px;
+  background-color: #11999E;
+
+  color: white;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.btn:hover {
+  border: 1px solid #66BFBF;
+  background-color: #15bec4;
+
+}
+
+.bottom-container {
+  margin-top: 50px;
+  background-color: #66BFBF;
+  padding: 50px 0 16px;
+}
+
+.bottom-container a {
+  color: #11999E;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  margin: 10px 20px;
+}
+
+.bottom-container a:hover {
+  color: #EAF6F6;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.contact-me {
+  padding: 8px;
+
+}
+
+.contact-me h2 {
+  font-size: 2rem;
+}
